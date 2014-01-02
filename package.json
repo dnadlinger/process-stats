@@ -1,0 +1,6 @@
+{
+    "name": "process-stats",
+    "description": "Functionality for gathering statistics about subprocesses.",
+    "copyright": "Copyright © 2014, David Nadlinger",
+    "authors": ["klickverbot"]
+}
